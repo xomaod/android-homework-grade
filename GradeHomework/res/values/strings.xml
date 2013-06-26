@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GradeHomework</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="header">Grade Calculator</string>
+    <string name="subjectAndroid">Android</string>
+    <string name="subjectiPhone">iPhone</string>
+    <string name="subjectWindows">Windows</string>
+    <string name="subjectBB">Black Berry</string>
+    <string name="button1">Click to see your grades</string>
+    <string name="title_activity_display">DisplayActivity</string>
+
+</resources>
